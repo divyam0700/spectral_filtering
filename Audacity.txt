@@ -1,0 +1,9 @@
+Audacity:
+
+Audacity is a free and open-source digital audio editor and recording application software, available for Windows, macOS, Linux, and other Unix-like operating systems.
+Audacity was started in the fall of 1999 by Dominic Mazzoni and Roger Dannenberg at Carnegie Mellon University and was released on May 28, 2000 as version 0.8.
+
+Download link:
+--https://www.audacityteam.org/download/
+
+Drag and drop the audio file to load it in audacity.
