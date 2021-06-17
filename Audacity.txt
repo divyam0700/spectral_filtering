@@ -5,5 +5,3 @@ Audacity was started in the fall of 1999 by Dominic Mazzoni and Roger Dannenberg
 
 Download link:
 --https://www.audacityteam.org/download/
-
-Drag and drop the audio file to load it in audacity.
