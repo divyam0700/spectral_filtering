@@ -1,4 +1,5 @@
 # Spectral filtering
+**Using spectral filtering method with the help of audacity software to reduce the noisy data in the given test_files.*
 ## Using python to solve for the following:
 
 Given an audio file (test.wav) which is noisy, you need to filter it in the following ways 
