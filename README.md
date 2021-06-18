@@ -7,3 +7,6 @@ Given an audio file (test.wav) which is noisy, you need to filter it in the foll
 2.	Frequency domain filtering
 3.	Perform spectral subtraction.
 >(HINT: To load the .wav file in python, use scipy.io.wavfile.read(‘Location of file’))
+
+![Divyam's github stats](https://github-readme-stats.vercel.app/api?username=divyam0700)
+
